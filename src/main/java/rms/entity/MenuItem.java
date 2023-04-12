@@ -15,7 +15,8 @@ public class MenuItem {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
-    private String name;
-    private Double price;
-    private String category;
+    private String itemName;
+    private Double itemPrice;
+    private String itemCategory;
+    private String itemDescription;
 }

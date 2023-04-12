@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.rupesh</groupId>
     <artifactId>rms</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.3</version>
     <name>rms</name>
     <description>Restaurant Management System</description>
     <properties>
